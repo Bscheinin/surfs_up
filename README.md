@@ -24,7 +24,7 @@ There are small but significant differences in temperature between June and Dece
 
 - The average temperature in June is 3 degrees warmer than December.
 - The maximum temperature is higher in June while the minimum temperature in December is lower.
-- The spread of temperatures means there is more variation in temperature in June than in December.
+- The spread of temperatures means there is more variation in temperature in December. More information about other conditions are needed.
 
 ## Summary
 This narrow analysis shows us that temperatures have very little change from the summer to winter seasons on the island of Oahu. However, there is more information needed to make an important investment decision. As a partner, I would want to know the average percipitation between these two months as well as which reporting station provided the weather conditions most condusive to surfing. This could show us that location of our new surf shop should be on the east side of the island versus the west. I would need more information than just summary temperature statistics to make an informed decision about this investment.
