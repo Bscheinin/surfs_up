@@ -11,11 +11,13 @@ Analysis of a SQLite database was done using Python through Jupyter Notebook.
 ## Analysis Results
 The database was parsed to allow analysis of the summary statistics for the months of June and December contained in the dataset.
 The summary temperature statistics for June are shown below:
+
 ![June Summary](https://github.com/Bscheinin/surfs_up/blob/main/Resources/June%20summary%20stats.PNG)
 
 
 The summary temperature statistics for December are shown here:
-![December Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.PNG)
+
+![December Summary](https://github.com/Bscheinin/surfs_up/blob/main/Resources/December%20summary%20stats.PNG)
 
 
 There are small but significant differences in temperature between June and December for the island of Oahu:
